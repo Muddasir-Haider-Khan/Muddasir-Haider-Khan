@@ -30,7 +30,7 @@
 
 <h2>📫 Connect with Me</h2>
 
-<p align="center">
+<p align="left">
     <a href="mailto:mhk.workforum@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email">
     </a> 
