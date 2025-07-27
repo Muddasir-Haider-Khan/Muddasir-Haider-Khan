@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Muddasir Haider Khan</h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7DC6F&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+Creative+Technologist;PIAIC+Student+%7C+2nd+Year+Pre-Engineering;Passionate+about+AI%2C+Code+%26+Design" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7DC6F&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+Creative+Technologist;PIAIC+Student+%7C+2nd+Year+Pre-Engineering;Passionate+about+AI%2C+Code+%26+Design" alt="Typing SVG">
 </p>
 
 ---
